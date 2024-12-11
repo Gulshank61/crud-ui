@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+  }
+
+.table-container {
+    border: 2px solid black;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.table-container th {
+    justify-content: center;
+    text-align: center;
+}
+
+.table-container td {
+    justify-content: center;
+    text-align: center;
+}
